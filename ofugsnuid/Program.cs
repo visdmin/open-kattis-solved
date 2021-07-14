@@ -1,11 +1,10 @@
 ﻿/*
-    Problem:  https://open.kattis.com/problems/ofugsnuid
+    Problem:  https://open.kattis.com/problems/polygonarea
     CPU time: 0.44 s
 */
 
 using System;
 using System.IO;
-using System.Linq;
 
 namespace ofugsnuid
 {
